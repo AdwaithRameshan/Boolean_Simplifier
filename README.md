@@ -4,7 +4,7 @@ Minor project for **Digital Circuit Design (DCD)**, NIT Bhopal.
 
 A web app that minimizes Boolean functions of up to 10 variables using the **Quine-McCluskey** method.
 
-**Live app:** <PASTE-STREAMLIT-LINK-HERE>
+**Live app:** (https://booleansimplifier-km6efhdrrxebzap6aupcw8.streamlit.app/)
 
 ## Features
 
